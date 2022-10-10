@@ -2,5 +2,5 @@ Hello beta testers, if you have any feeback send it to my teams or whatsapp plea
 New app version available
 
 Changelog:  
-  Changed the login UI  
-  Added ability to change theme  
+   Changed the login UI  
+   Added ability to change theme  
